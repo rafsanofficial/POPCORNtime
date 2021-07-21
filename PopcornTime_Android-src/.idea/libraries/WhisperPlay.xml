@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WhisperPlay">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Connect-SDK-Android/modules/firetv/libs/WhisperPlay.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
